@@ -1,0 +1,51 @@
+canonical_identifier: bkk:krp/KR6a0060/v1
+canonical_location: https://kanripo.org/bkk/KR6a0060/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 瞿曇彌記果經
+  identifiers:
+    alt_id:
+    - T01n0060
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0060.xml
+    old_id: T01n0060
+  edition:
+    short: bkk
+editions:
+- short: 元
+  label: 元
+  source_xml_id: wit1
+- short: 明
+  label: 明
+  source_xml_id: wit2
+- short: 宋
+  label: 宋
+  source_xml_id: wit3
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0060_000.yaml, hash: 'sha256:8a5052fd1f3208c12f503354ea4b34f43958aada72a8a9e0227db8585896b920'}
+  - {seq: 1, filename: KR6a0060_001.yaml, hash: 'sha256:c3e16dfd62165a850177ce3d5976662f5f3a16467011ab07d5f72568413da255'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6a0060_001.markers.yaml, hash: 'sha256:a4b532d0d7e0759052efe64ad4c3b970557aad9cb5dac4af4d2d4d3165510476'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0060_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2948
+  label: 佛說瞿曇彌記果經
+  type: juan
+  level: 1
+hash: sha256:a09dd32018edf10dd6a50f7feee805bf2c559ea7a35460277fef78416a88d34e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

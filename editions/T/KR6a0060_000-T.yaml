@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0060/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 瞿曇彌記果經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0060.xml
+    old_id: T01n0060
+hash: sha256:8a5052fd1f3208c12f503354ea4b34f43958aada72a8a9e0227db8585896b920
