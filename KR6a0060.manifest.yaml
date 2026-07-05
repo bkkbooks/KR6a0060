@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0060_000.yaml, hash: 'sha256:8a5052fd1f3208c12f503354ea4b34f43958aada72a8a9e0227db8585896b920'}
-  - {seq: 1, filename: KR6a0060_001.yaml, hash: 'sha256:c3e16dfd62165a850177ce3d5976662f5f3a16467011ab07d5f72568413da255'}
+  - {seq: 1, filename: KR6a0060_001.yaml, hash: 'sha256:ddc0d968b112cba44c5c4322f6563bb192055ea68411e66cbd1299ad75e821bc'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0060_001.markers.yaml, hash: 'sha256:a4b532d0d7e0759052efe64ad4c3b970557aad9cb5dac4af4d2d4d3165510476'}
+  - {seq: 0, role: markers, filename: assets/KR6a0060_000.markers.yaml, hash: 'sha256:f110e09d2e1cfb8bcaaa3a8bc2dc084d5fec57420b12f96f5af6f3ba32d31ef5'}
+  - {seq: 1, role: markers, filename: assets/KR6a0060_001.markers.yaml, hash: 'sha256:fe953a88c4f2e593c9d2d0260ebe92dcd14217b3191104b1640aa84d971ad210'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說瞿曇彌記果經
   type: juan
   level: 1
-hash: sha256:a09dd32018edf10dd6a50f7feee805bf2c559ea7a35460277fef78416a88d34e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:09259995e3b542ef2f140bca2767f15a20c3ba9d0a6e19679f14bb982faacf45
