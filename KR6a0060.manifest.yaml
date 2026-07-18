@@ -33,7 +33,7 @@ assets:
   - {seq: 0, filename: KR6a0060_000.yaml, hash: 'sha256:8a5052fd1f3208c12f503354ea4b34f43958aada72a8a9e0227db8585896b920'}
   - {seq: 1, filename: KR6a0060_001.yaml, hash: 'sha256:fb9b982a29f1f5b8d559c14cedc4d0f05f5bf92cf78d1d7901e99663d019536a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0060_000.markers.yaml, hash: 'sha256:f110e09d2e1cfb8bcaaa3a8bc2dc084d5fec57420b12f96f5af6f3ba32d31ef5'}
+  - {seq: 0, role: markers, filename: assets/KR6a0060_000.markers.yaml, hash: 'sha256:e8f615aa3608476844b136e37517ee336635c6de80038cb3d74497dd6df10a91'}
   - {seq: 1, role: markers, filename: assets/KR6a0060_001.markers.yaml, hash: 'sha256:794365b2759a49003e68c75f269a5e34c723694f4565b5207844cfae5311c01f'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 佛說瞿曇彌記果經
   type: juan
   level: 1
-hash: sha256:0a8920fd34abce34864d22ab597ed48c2c35c72dd7aeed078c3fa14824806615
+hash: sha256:3279ac7bff88471c750bb856688f4842c38b2a2b0c564ebe6288106184f6455c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
